@@ -1,4 +1,4 @@
-![Ekran görüntüsü 2025-06-25 113709](https://github.com/user-attachments/assets/ed99ee6a-d286-48bf-96e9-fca52d481ce4)## 🏨 Hotel Website
+## 🏨 Hotel Website
 
 This is a simple and clean hotel website built using HTML, CSS, and JavaScript. The website features a modern and user-friendly interface with multiple sections in the header that provide informative content about the hotel, such as services, rooms, contact details, and more.
 
