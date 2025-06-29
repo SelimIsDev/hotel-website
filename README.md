@@ -1,4 +1,4 @@
-## Hotel Website
+## 🏨 Hotel Website
 
 This is a simple and clean hotel website built using HTML, CSS, and JavaScript. The website features a modern and user-friendly interface with multiple sections in the header that provide informative content about the hotel, such as services, rooms, contact details, and more.
 
