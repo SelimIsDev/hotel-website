@@ -4,7 +4,7 @@ This is a simple and clean hotel website built using HTML, CSS, and JavaScript. 
 
 The main goal of this project is to offer a responsive and visually appealing layout that can serve as a front-facing website for any hotel or accommodation business.
 
-🏃‍♂️ How to Run the Project
+## 🏃‍♂️ How to Run the Project
 1️⃣ Open index.html in a web browser.
 
 2️⃣ Navigate through the site using the menu.
@@ -22,5 +22,5 @@ The main goal of this project is to offer a responsive and visually appealing la
 📰 **Blogs**: Features articles and updates related to travel tips, hotel news, and local attractions.
 
 
-🖼 Screenshots
+## 🖼 Screenshots
 ![Ekran görüntüsü 2025-06-25 113731](https://github.com/user-attachments/assets/5e8a5df9-a9c0-41a9-b5d3-c4e4f6c2216f)
