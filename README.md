@@ -24,3 +24,4 @@ The main goal of this project is to offer a responsive and visually appealing la
 
 ## 🖼 Screenshots
 ![Ekran görüntüsü 2025-06-25 113731](https://github.com/user-attachments/assets/5e8a5df9-a9c0-41a9-b5d3-c4e4f6c2216f){width=100}
+<img src="[images/homepage.png](https://github.com/user-attachments/assets/5e8a5df9-a9c0-41a9-b5d3-c4e4f6c2216f)" alt="Home Page" width="100"/>
